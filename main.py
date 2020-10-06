@@ -1,0 +1,5 @@
+data = "JHFpGKgISuRUIVP+oTxglnc=###NQ/t4S53SKjTsJwzuvl/No/z4ceCmS9dlOr0hWdXruev8M6SwvqKSKN3aV5I128eunCzFyEStgt4/dNsuJIyM9OMTlhtKExlOwnmWjKrQWnMkmoNdXj1tje7GVLd2uu8uOCjj5BcxKnfpYuwLoivLVEtIfDGDkI8V1LlPbAPZGI=##mbVzu68vS4z2BVrl7yZ4eLtL5t7zQ9UI6VCh+fi/tPYxQwSt4HcHIpwGMKBLcDkzjiC8###d9bLDsoWxSm209/UNxKzJnntdBZqrvnaK6gspkxTP0gOpo4p6bn6Z74S7sq0KuTmD/ue97LZ6iOg4dd2AdWLLMc8qbxBliW0vHaDTVgWzq9FRNQl1Hg0xggooLQ2tTtvrxAeUQ=="
+
+print(len(data).split('b'))
+
+# TODO 
